@@ -4,3 +4,6 @@ baseurl: ""
 url: "https://synnaulaid.github.io"
 markdown: kramdown
 permalink: /:title/
+
+plugins:
+  - jekyll-redirect-from
