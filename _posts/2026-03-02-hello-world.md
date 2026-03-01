@@ -2,8 +2,6 @@
 layout: post
 title: "Hello World!"
 date: 2026-03-02
-redirect_from:
-  - /blog/260326/hello-world/
 ---
 
 # Hello World!
