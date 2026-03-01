@@ -1,0 +1,5 @@
+![Page View](https://komarev.com/ghpvc/?username=synnaulaid&color=blue&style=flat-square&label=Page%20View) 
+[![Email](https://img.shields.io/badge/Email-syn%40warceuproject.or.id-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:syn@warceuproject.or.id)
+[![GitHub](https://img.shields.io/badge/GitHub-synnaulaid-black?style=flat-square&logo=github&logoColor=white)](https://github.com/synnaulaid)
+[![instagram](https://img.shields.io/badge/Instagram-synnaulaid-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/syn.naulaid/)
+[![messenger](https://img.shields.io/badge/YandexChat-synnaulaid-0084ff?style=flat-square&logo=telegram&logoColor=white)](https://yandex.com/chat/p/d9a2c502-30d0-9c95-7c2e-a33467d3592f?utm_source=invite)

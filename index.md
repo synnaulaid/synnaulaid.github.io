@@ -5,4 +5,12 @@ title: Home
 
 # Welcome
 
-Ini halaman utama.
+
+Hello! 👋 I’m Synnaulaid, but you can call me Syn.
+
+This is my personal corner of the internet where I share my projects, experiments, and thoughts on software development, cybersecurity, and all things tech.
+
+Feel free to explore, check out my blog, or see the work I’ve contributed to the Warceu Project Community.
+
+Stay curious, keep learning, and maybe have a little fun along the way. 😎
+
