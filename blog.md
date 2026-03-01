@@ -1,12 +1,12 @@
 ---
 layout: base
+title: Blog
+permalink: /blog/
 ---
 
-<article>
-  <h1>{{ page.title }}</h1>
-  <p style="opacity:0.6;">{{ page.date | date: "%B %d, %Y" }}</p>
+# Blog
 
-  <div>
-    {{ content }}
-  </div>
-</article>
+{% for post in site.posts %}
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p style="opacity:0.6;">{{ post.date | date: "%d %b %Y" }}</p>
+{% endfor %}
