@@ -4,7 +4,7 @@ title: "Hello World!"
 date: 2026-03-02
 permalink: /blog/260326/hello-world/
 redirect_from:
-  - /blog/260326/  
+  - /blog/260326/
 ---
 
 # Hello World!
