@@ -28,7 +28,11 @@ Total paginator.posts: {{ paginator.posts | size }}
     {% if page == paginator.page %}
       <span style="margin:0 0.3em; font-weight:bold;">{{ page }}</span>
     {% else %}
-      <a href="{{ paginator.paginate_path | replace: ':num', page | relative_url }}" style="margin:0 0.3em;">{{ page }}</a>
+      {% if page == 1 %}
+        <a href="{{ '/blog/' | relative_url }}" style="margin:0 0.3em;">{{ page }}</a>
+      {% else %}
+        <a href="{{ '/blog/page' | append: page | append: '/' | relative_url }}" style="margin:0 0.3em;">{{ page }}</a>
+      {% endif %}
     {% endif %}
   {% endfor %}
 
