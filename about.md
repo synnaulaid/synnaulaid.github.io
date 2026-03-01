@@ -1,3 +1,8 @@
+---
+layout: base
+title: Home
+---
+
 # About me
 
 Hello World! I’m Synnaulaid — though you can call me Syn. Some people jokingly call me <b>“the Pathetic Man who lives surrounded by screens and lines of code.”</b> Maybe they’re not entirely wrong. I practically grew up in a Debian household with the GNU surname, raised in the open-source world that promised freedom  yet somehow keeps me happily chained to machines and terminal windows.
