@@ -12,5 +12,5 @@ This is my personal corner of the internet where I share my projects, experiment
 
 Feel free to explore, check out my blog, or see the work I’ve contributed to the Warceu Project Community.
 
-Stay curious, keep learning, and maybe have a little fun along the way. 😎
+Stay curious, keep learning, and maybe have a little fun along the way. <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="15" height="15">
 
