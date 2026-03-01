@@ -1,0 +1,6 @@
+title: Synnaulaid
+description: Personal Page Lab & Research
+baseurl: ""
+url: "https://synnaulaid.github.io"
+markdown: kramdown
+permalink: /:title/
