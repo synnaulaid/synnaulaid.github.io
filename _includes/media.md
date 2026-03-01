@@ -20,3 +20,4 @@
 <a href="https://yandex.com/chat/p/d9a2c502-30d0-9c95-7c2e-a33467d3592f?utm_source=invite">
   <img src="https://img.shields.io/badge/YandexChat-synnaulaid-0084ff?style=flat-square&logo=telegram&logoColor=white" alt="Yandex Chat">
 </a>
+
