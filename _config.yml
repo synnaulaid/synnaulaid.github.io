@@ -8,12 +8,7 @@ future: true
 
 plugins:
   - jekyll-redirect-from
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/blog/:num/'
-  title: ':title - page :num'
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 5
+paginate_path: "/blog/:num/"
