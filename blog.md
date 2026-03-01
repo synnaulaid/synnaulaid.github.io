@@ -7,7 +7,8 @@ pagination:
 ---
 
 # Blog
-Total posts: {{ site.posts | size }}
+Total site.posts: {{ site.posts | size }}
+Total paginator.posts: {{ paginator.posts | size }}
 
 {% if paginator.total_posts > 0 %}
   {% for post in paginator.posts %}
