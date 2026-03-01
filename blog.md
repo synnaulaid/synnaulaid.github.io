@@ -2,6 +2,10 @@
 layout: base
 title: Blog
 permalink: /blog/
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: /blog/:num/
 ---
 
 # Blog
