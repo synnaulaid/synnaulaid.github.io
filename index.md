@@ -6,7 +6,7 @@ title: Home
 # Welcome
 
 
-Hello! 👋 I’m Synnaulaid, but you can call me Syn.
+Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="15" height="15"> I’m Synnaulaid, but you can call me Syn.
 
 This is my personal corner of the internet where I share my projects, experiments, and thoughts on software development, cybersecurity, and all things tech.
 
