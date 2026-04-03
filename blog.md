@@ -2,6 +2,7 @@
 layout: base
 title: Blog
 permalink: /blog/
+paginate: true
 ---
 
 # Blog
