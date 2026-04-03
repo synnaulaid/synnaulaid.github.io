@@ -1,18 +1,6 @@
 ---
-layout: base
-title: Blog
+redirect_to: /blog/index.html
 ---
-
-# Blog
-
-{% assign posts = site.posts | where_exp: 'post', 'post.date <= site.time' | sort: 'date' | reverse %}
-{% assign paginated_posts = posts | slice: 0, 1 %}
-{% for post in paginated_posts %}
-  <article style="margin-bottom: 2em;">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p style="opacity:0.6; font-size:0.9em;">{{ post.date | date: "%d %b %Y" }}</p>
-  </article>
-{% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">
