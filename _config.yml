@@ -11,5 +11,13 @@ paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-redirect-from
-  - jekyll-paginate
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 1
+  permalink: "/blog/page:num/"
+  title: "Blog - page :num"
+  short_fields: 'date'
+  short_reverse: true
 
