@@ -1,6 +1,0 @@
----
-layout: base
-title: Blog
-permalink: /blog/
-redirect_to: /blog/
----
