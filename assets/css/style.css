@@ -32,3 +32,29 @@ footer {
   border-top: 1px solid #222;
   font-size: 14px;
 }
+
+.pagination {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.pagination a, .pagination span {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 0 4px;
+  text-decoration: none;
+  color: #58a6ff;
+  border: 1px solid #58a6ff;
+  border-radius: 4px;
+}
+
+.pagination a:hover {
+  background-color: #58a6ff;
+  color: #0d1117;
+}
+
+.pagination .disabled {
+  color: #8b949e;
+  border-color: #8b949e;
+  cursor: not-allowed;
+}

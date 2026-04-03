@@ -6,5 +6,9 @@ markdown: kramdown
 permalink: /:title/
 future: true
 
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
