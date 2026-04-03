@@ -6,8 +6,7 @@ title: Blog
 # Blog
 
 {% assign posts = site.posts | where_exp: 'post', 'post.date <= site.time' | sort: 'date' | reverse %}
-{% assign paginated_posts = posts | slice: 0, 1 %}
-{% for post in paginated_posts %}
+{% for post in posts limit: 1 %}
   <article style="margin-bottom: 2em;">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     <p style="opacity:0.6; font-size:0.9em;">{{ post.date | date: "%d %b %Y" }}</p>
@@ -16,14 +15,10 @@ title: Blog
 
 <!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous disabled">Previous</span>
-  {% endif %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
+  <span class="previous disabled">Previous</span>
+  
+  {% if posts.size > 1 %}
+    <a href="/blog/page2/" class="next">Next</a>
   {% else %}
     <span class="next disabled">Next</span>
   {% endif %}
