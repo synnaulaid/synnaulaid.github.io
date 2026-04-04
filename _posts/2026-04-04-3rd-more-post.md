@@ -6,6 +6,8 @@ permalink: /blog/20260403/3rd-more-posts
 redirect_from: 
     - /blog/20260404
 description: "Third post discussing fixes to the paginator in the blog."
+images: /assets/img/kapak.jpg
+keywords: posts, paginator, blog, software development, cybersecurity, programming
 ---
 
 # 3rd More Posts
