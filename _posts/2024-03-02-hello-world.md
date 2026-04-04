@@ -6,6 +6,7 @@ permalink: /blog/240302/hello-world/
 redirect_from:
   - /blog/240302/
 description: "My first blog post introducing myself and sharing excitement about programming, cybersecurity, and technology."
+tags: [introduction, programming, cybersecurity, technology]
 ---
 
 # Hello World!

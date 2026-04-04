@@ -9,4 +9,17 @@ layout: base
   <div>
     {{ content }}
   </div>
+
+  {% if page.tags %}
+    <div class="tags">
+      <span class="taging"><b>Tags</b>: </span>
+      {% for tag in page.tags %}
+        <a href="{{ '/tags/' | append: tag | append: '/' | relative_url }}">
+          #{{ tag }}
+        </a>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+
 </article>

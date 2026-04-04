@@ -8,11 +8,13 @@ redirect_from:
 description: "Third post discussing fixes to the paginator in the blog."
 image: /assets/img/kapak.jpg
 keywords: posts, paginator, blog, software development, cybersecurity, programming
+tags: [cybersecurity, programming, linux]
 ---
 
 # 3rd More Posts
 
-![alt kapak](/assets/img/kapak.jpg)
+<img src="/assets/img/kapak.jpg" alt="kapak" width="300" height="300">
 
 
 This 3rd more posts after fixed the fucking paginator
+

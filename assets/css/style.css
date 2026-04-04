@@ -58,3 +58,35 @@ footer {
   border-color: #8b949e;
   cursor: not-allowed;
 }
+/* POST */
+.list-posts {
+  list-style: none;
+  padding: 0;
+}
+.list-posts li {
+  margin-bottom: 20px;
+}
+.list-posts a {
+  color: #58a6ff;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+.list-posts a:hover {
+  color: #1f6feb;
+}
+
+.tags {
+  padding: 10px;
+  color: #58a6ff;
+}
+.tags a {
+  color: #58a6ff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+.tags a:hover {
+  color: #1f6feb;
+}
+.tags .taging {
+  color: #8b949e;
+}
