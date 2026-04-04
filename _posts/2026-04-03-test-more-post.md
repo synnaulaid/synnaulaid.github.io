@@ -5,6 +5,7 @@ date: 2026-04-03
 permalink: /blog/20260403/test-more-posts
 redirect_from: 
     - /blog/20260403/
+description: "A test post to check blog functionality and fixes."
 ---
 
 # Test More Posts!

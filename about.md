@@ -2,6 +2,7 @@
 layout: base
 title: About
 permalink: /about/
+description: "Learn more about Syn Naulaid, a passionate software developer and cybersecurity enthusiast sharing insights on programming, web development, and ethical hacking."
 ---
 
 # About me
