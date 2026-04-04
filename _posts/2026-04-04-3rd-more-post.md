@@ -12,4 +12,7 @@ keywords: posts, paginator, blog, software development, cybersecurity, programmi
 
 # 3rd More Posts
 
+![alt kapak](/assets/img/kapak.jpg)
+
+
 This 3rd more posts after fixed the fucking paginator
