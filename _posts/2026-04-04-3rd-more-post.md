@@ -6,6 +6,7 @@ permalink: /blog/20260403/3rd-more-posts
 redirect_from: 
     - /blog/20260404
 description: "Third post discussing fixes to the paginator in the blog."
+keywords: software development, cybersecurity, programming, web development, blog
 ---
 
 # 3rd More Posts

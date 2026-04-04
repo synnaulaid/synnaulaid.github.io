@@ -6,6 +6,7 @@ permalink: /blog/20260403/test-more-posts
 redirect_from: 
     - /blog/20260403/
 description: "A test post to check blog functionality and fixes."
+keywords: software development, cybersecurity, programming, web development, blog
 ---
 
 # Test More Posts!

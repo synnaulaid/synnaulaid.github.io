@@ -2,6 +2,8 @@
 layout: base
 title: Home
 description: "Welcome to Syn Naulaid's personal page. Explore projects, experiments, and thoughts on software development, cybersecurity, and technology."
+keywords: personal website, software development, cybersecurity, programming, technology, projects, experiments
+permalink: /
 ---
 
 # Welcome
