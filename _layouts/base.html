@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
+  
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +8,7 @@
   <meta name="description" content="{{ page.description | default: page.excerpt | default: site.description }}">
   <meta name="keywords" content="{{ page.keywords | default: 'software development, cybersecurity, programming, web development' }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
-  
+
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -69,7 +70,59 @@
   </main>
 
   {% include footer.html %}
+<!-- Trakteer Button -->
 <script type='text/javascript' src='https://edge-cdn.trakteer.id/js/trbtn-overlay.min.js?v=14-05-2025'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Support Me on Trakteer','#be1e2d','https://trakteer.id/v1/synnaulaid/tip/embed/modal','https://edge-cdn.trakteer.id/images/embed/trbtn-icon.png?v=14-05-2025','40','floating-right');trbtnOverlay.draw(trbtnId);})();</script>
+
+<!-- GOOGLE TRANSLATE HIDDEN -->
+<div id="google_translate_element" style="display:none;"></div>
+
+<script>
+/* =========================
+   INIT GOOGLE TRANSLATE
+========================= */
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'id',
+    includedLanguages: 'en,id',
+    autoDisplay: false
+  }, 'google_translate_element');
+}
+</script>
+
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script>
+/* =========================
+   AUTO LANGUAGE SWITCH
+========================= */
+(function () {
+
+  const browserLang = navigator.language || navigator.userLanguage;
+
+  // hanya trigger kalau user bukan Indonesia
+  if (!browserLang.startsWith('id')) {
+
+    const waitTranslate = setInterval(() => {
+
+      const select = document.querySelector(".goog-te-combo");
+
+      if (select) {
+        select.value = "en";
+        select.dispatchEvent(new Event("change"));
+
+        clearInterval(waitTranslate);
+      }
+
+    }, 500);
+
+    // safety stop after 10s
+    setTimeout(() => clearInterval(waitTranslate), 10000);
+  }
+
+})();
+</script>
+
+
 
 </body>
 </html>

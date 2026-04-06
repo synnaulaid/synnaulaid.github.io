@@ -1,0 +1,11 @@
+{% assign lang = page.lang | default: site.lang | default: "id" %}
+
+{% if lang == "id" %}
+  {% assign t_title = page.title_id %}
+  {% assign t_desc = page.description_id %}
+  {% assign t_content = page.content_id %}
+{% else %}
+  {% assign t_title = page.title_en %}
+  {% assign t_desc = page.description_en %}
+  {% assign t_content = page.content_en %}
+{% endif %}

@@ -3,7 +3,6 @@ layout: base
 title: Home
 description: "Welcome to Syn Naulaid's personal page. Explore projects, experiments, and thoughts on software development, cybersecurity, and technology."
 ---
-
 # Welcome
 
 
