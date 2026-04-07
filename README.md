@@ -26,3 +26,9 @@ For more information about the MIT License, please visit: https://opensource.org
 - Markdown https://www.markdownguide.org/
 - YAML https://yaml.org/
 
+See the [introduction documentation](docs/intro.md) for more details on how to use this project as a template for your own personal page.
+
+-- - -
+# My Blog Posts
+
+- [Finally Hello World!](https://synnaulaid.github.io/blog/20260406/finally-hello-world/) 
