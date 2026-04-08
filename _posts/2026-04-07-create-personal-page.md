@@ -6,7 +6,8 @@ permalink: /blog/20260407/how-to-create-a-personal-page-for-free/
 redirect_from:
   - /blog/20260407/
 description: "Ini adalah langkah dimana kamu bisa membuat website sendiri secara gratis untuk personal branding atau portofolio dengan tampilan yang keren."
-tags: [introduction, programming, webdev, journey]
+tags: [introduction, programming, webdev, journey, personal_branding]
+keywords: [personal branding, personal page, github pages, free hosting, web development]
 published: true
 image: /assets/img/posts/how-to-create-personal-website.png
 ---
