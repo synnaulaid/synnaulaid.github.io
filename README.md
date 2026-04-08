@@ -30,6 +30,7 @@ See the [introduction documentation](docs/intro.md) for more details on how to u
 
 -- - -
 # My Blog Posts
+- [Rekomendasi Hosting 100% Gratis untuk deploy aplikasi web kamu](https://synnaulaid.github.io/blog/20260409/rekomendasi-hosting-gratis/)
 - [How to Create a Personal Page for free with Github Pages](https://synnaulaid.github.io/blog/20260407/how-to-create-a-personal-page-for-free)
 - [Finally Hello World!](https://synnaulaid.github.io/blog/20260406/finally-hello-world/) 
 
