@@ -12,7 +12,7 @@ published: true
 image: /assets/img/posts/free-hosting.png
 ---
 
-<img src="/assets/img/posts/free-hosting.png" alt="Rekomendasi Hosting 100% Gratis untuk deploy aplikasi web kamu" style="width: 300px; height: 200px; margin-bottom: 20px;">
+<img src="/assets/img/posts/free-hosting.png" alt="Rekomendasi Hosting 100% Gratis untuk deploy aplikasi web kamu" style="width: 100%; height: auto; margin-bottom: 20px;">
 # Rekomendasi Hosting 100% Gratis untuk deploy aplikasi web kamu
 
 Halo barudak simply karya! Setelah kemarin kita membahas tentang [perjalanan membangun personal page](https://synnaulaid.github.io/blog/20260407/how-to-create-a-personal-page-for-free/), Pernahkah kalian bertanya-tanya, "Di mana sih tempat terbaik untuk hosting aplikasi web saya tanpa harus mengeluarkan biaya?" Nah, di artikel kali ini, saya akan memberikan beberapa rekomendasi hosting gratis yang bisa kalian gunakan untuk deploy aplikasi web kalian. Jadi, simak terus ya!

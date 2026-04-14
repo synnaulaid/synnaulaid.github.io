@@ -11,7 +11,7 @@ keywords: [personal branding, personal page, github pages, free hosting, web dev
 published: true
 image: /assets/img/posts/how-to-create-personal-website.png
 ---
-<img src="/assets/img/posts/how-to-create-personal-website.png" alt="Cara membuat website personal page untuk personal branding secara gratis dengan github pages" style="width: 400px; height: 200px; margin-bottom: 20px;">
+<img src="/assets/img/posts/how-to-create-personal-website.png" alt="Cara membuat website personal page untuk personal branding secara gratis dengan github pages" style="width: 100%; height: auto; margin-bottom: 20px;">
 # Cara membuat website personal page untuk personal branding secara gratis dengan github pages 
 
 Halo barudak Simply Karya! Setelah kemarin kita memulai perjalanan dengan ["Hello World!"](https://synnaulaid.github.io/blog/20260406/finally-hello-world/), hari ini kita akan melangkah lebih jauh dengan membuat website personal page sendiri secara gratis menggunakan GitHub Pages. Ini adalah langkah penting untuk membangun personal branding dan menunjukkan keahlian kita di dunia digital.
