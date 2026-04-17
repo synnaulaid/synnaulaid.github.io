@@ -30,7 +30,7 @@ See the [introduction documentation](docs/intro.md) for more details on how to u
 
 -- - -
 # My Blog Posts
-- [Kesalahan yang Sering Dilakukan Saat Deploy Website (dan Cara Menghindarinya)](https://synnaulaid.github.io/blog/20260410/kesalahan-saat-deploy-website/)
+- [Kesalahan yang Sering Dilakukan Saat Deploy Website dan Cara Menghindarinya](https://synnaulaid.github.io/blog/20260418/kesalahan-fatal-saat-deploy-web/)
 - [Rekomendasi Hosting 100% Gratis untuk deploy aplikasi web kamu](https://synnaulaid.github.io/blog/20260409/rekomendasi-hosting-gratis/)
 - [How to Create a Personal Page for free with Github Pages](https://synnaulaid.github.io/blog/20260407/how-to-create-a-personal-page-for-free)
 - [Finally Hello World!](https://synnaulaid.github.io/blog/20260406/finally-hello-world/) 
