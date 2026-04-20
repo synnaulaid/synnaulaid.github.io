@@ -6,7 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: page.excerpt | default: site.description }}">
-  <meta name="keywords" content="{{ page.keywords | default: 'software development, cybersecurity, programming, web development' }}">
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ', ' }}">
+  {% else %}
+    <meta name="keywords" content="software development, cybersecurity, programming, web development">
+  {% endif %}
+
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <!-- Open Graph / Facebook -->
