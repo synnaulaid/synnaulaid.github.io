@@ -6,7 +6,7 @@ permalink: /blog/20260418/kesalahan-fatal-saat-deploy-web/
 redirect_from:
   - /blog/20260418/
 description: "Apakah kamu juga melakukan kesalahan ini? Banyak developer tidak menyadari error kritis yang bisa merusak website mereka. Pelajari kesalahan fatal yang sering terjadi saat deploy website dan cara menghindarinya agar website kamu tetap aman dan berjalan lancar."
-tags: [hosting, webdev, journey, cybersecurity]
+tags: [hosting, webdev, journey, cybersecurity, developer]
 keywords: ["webdevelopment", web hosting, web deployment, website security, common mistakes, fatal errors, cybersecurity, web development tips, github action, sentry, debugging]
 published: true
 image: /assets/img/posts/Fatal-Errors-When-Deploying-a-Website.png
