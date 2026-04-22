@@ -9,6 +9,7 @@ future: true
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 
 paginate: 10
