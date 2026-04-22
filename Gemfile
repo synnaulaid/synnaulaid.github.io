@@ -5,4 +5,5 @@ gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem "jekyll-tagging"
 gem "jekyll-redirect-from"
+gem "jekyll-paginate-v2"
 
