@@ -30,6 +30,7 @@ See the [introduction documentation](docs/intro.md) for more details on how to u
 
 -- - -
 # My Blog Posts
+- [Apa yang sebenarnya developer lakukan?](https://synnaulaid.github.io/blog/20260423/apa-yang-sebenarnya-developer-lakukan/)
 - [Hal-hal yang harus kamu sadari setelah deploy web](https://synnaulaid.github.io/blog/20260422/Hal-hal-yang-Baru-Saya-Sadari-Setelah-Website-Kena-Masalah/)
 - [Kesalahan yang Sering Dilakukan Saat Deploy Website dan Cara Menghindarinya](https://synnaulaid.github.io/blog/20260418/kesalahan-fatal-saat-deploy-web/)
 - [Rekomendasi Hosting 100% Gratis untuk deploy aplikasi web kamu](https://synnaulaid.github.io/blog/20260409/rekomendasi-hosting-gratis/)
