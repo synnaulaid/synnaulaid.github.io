@@ -6,7 +6,7 @@ permalink: /blog/20260409/rekomendasi-hosting-gratis/
 redirect_from:
   - /blog/20260409/
 description: "Solusi hosting gratis untuk aplikasi web kamu, cocok untuk pemula yang ingin belajar dan bereksperimen tanpa biaya."
-tags: [hosting, webdev, journey]
+tags: [hosting, webdev]
 keywords: [hosting gratis, hosting web, hosting aplikasi, hosting pemula, hosting tanpa biaya, hosting, free hosting, web hosting]
 published: true
 image: /assets/img/posts/free-hosting.png
