@@ -12,7 +12,7 @@ published: true
 image: /assets/img/posts/Kenapa-Saya-Mulai-Belajar-Lebih-Dalam-Soal-Website.png
 ---
 
-<img src="/assets/img/posts/Kenapa-Saya-Mulai-Belajar-Lebih-Dalam-Soal-Website.png" alt="Apa yang sebenarnya developer lakukan?" class="post-image" style="width:100%; height:auto; margin-bottom:20px;">
+<img src="/assets/img/posts/Kenapa-Saya-Mulai-Belajar-Lebih-Dalam-Soal-Website.png" alt="Kenapa Saya Mulai Belajar Lebih Dalam Soal Website" class="post-image" style="width:100%; height:auto; margin-bottom:20px;">
 
 # Kenapa Saya Mulai Belajar Lebih Dalam Soal Website
 
