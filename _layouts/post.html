@@ -5,7 +5,15 @@ layout: base
 <article>
   <h1>{{ page.title }}</h1>
   <p style="opacity:0.6;">{{ page.date | date: "%B %d, %Y" }}</p>
-
+<!--adcash-->
+<div>
+    <script type="text/javascript">
+        aclib.runBanner({
+            zoneId: '11258134',
+        });
+    </script>
+</div>
+<!--adend-->
   <div>
     {{ content }}
   </div>
@@ -20,6 +28,11 @@ layout: base
       {% endfor %}
     </div>
   {% endif %}
-
-
+<!--adcash-->
+<script type="text/javascript">
+    aclib.runVideoSlider({
+        zoneId: '11258286',
+    });
+</script>
+  <!--adcash-->
 </article>
